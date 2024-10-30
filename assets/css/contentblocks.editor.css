@@ -1,0 +1,13 @@
+.wp-block-contentblocks-staff .image-wrapper {
+  position: relative;
+}
+
+.wp-block-contentblocks-staff .image-wrapper button.remove-image {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.wp-block-contentblocks-staff .image-wrapper button.remove-image path {
+  fill: red;
+}
